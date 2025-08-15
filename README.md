@@ -131,5 +131,3 @@ Import into Postman → set `{{base_url}}` to your backend URL (`http://localhos
 ## 👨‍💻 Author
 
 **Malak Raaof** — [GitHub](https://github.com/malak-raaof)
-
-```
